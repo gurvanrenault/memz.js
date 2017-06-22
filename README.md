@@ -6,7 +6,7 @@ In the head section of your HTML add the script as below
 
 ```html
   <head>
-  <scriptsrc="https://cdn.rawgit.com/gurvanrenault/memz.js/master/memz.min.js"/>
+  <script src="https://cdn.rawgit.com/gurvanrenault/memz.js/master/memz.min.js"/>
   </head>
  ```
  # Features
