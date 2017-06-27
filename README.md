@@ -5,12 +5,12 @@ In the head section of your HTML add the script as below
 
 ```html
   <head>
-  <script src="https://cdn.rawgit.com/gurvanrenault/memz.js/master/memz.min.js"/>
+  <script src="https://cdn.rawgit.com/gurvanrenault/memz.js/master/memz.min.js"></script>
   </head>
  ```
  # Features
 
- ```javascript
+ ```javascriptd
 memz.showRandomGIF(t,my_url=false)
 ```
  Display randomly GIF on the screen every t seconds
