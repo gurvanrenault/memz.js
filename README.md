@@ -5,7 +5,7 @@ In the head section of your HTML add the script as below
 
 ```html
   <head>
-  <script src="https://cdn.rawgit.com/gurvanrenault/memz.js/master/memz.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/gurvanrenault/memz.js/memz.min.js"></script>
   </head>
  ```
  # Features
